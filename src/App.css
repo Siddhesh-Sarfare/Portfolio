@@ -51,3 +51,7 @@
   font-family: "Poppins", sans-serif !important;
   /* font-family: "JetBrains Mono", monospace !important; */
 }
+
+.content {
+  width: 40rem;
+}
