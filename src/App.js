@@ -8,6 +8,9 @@ function App() {
         <p>
           Username
         </p>
+        <p>
+          Password
+        </p>
       </div>
     </div>
   );
