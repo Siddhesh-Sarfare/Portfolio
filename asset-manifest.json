@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.e3ae7d57.css",
-    "main.js": "/Portfolio/static/js/main.60408398.js",
+    "main.css": "/Portfolio/static/css/main.d14c585c.css",
+    "main.js": "/Portfolio/static/js/main.3d51573f.js",
     "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/connect.png": "/Portfolio/static/media/connect.ca7590cab3b1dba5b063.png",
     "static/media/ProfImgbg.png": "/Portfolio/static/media/ProfImgbg.17f7c0aaef52f519f5ee.png",
     "static/media/passportdp-removebg-preview.png": "/Portfolio/static/media/passportdp-removebg-preview.2b82c2ad14f1bc50bee9.png",
+    "static/media/business.png": "/Portfolio/static/media/business.459f9a3e7a27bb516216.png",
     "static/media/hero_background.webp": "/Portfolio/static/media/hero_background.d96bd4bdf6ae52280f65.webp",
+    "static/media/bpifrance.png": "/Portfolio/static/media/bpifrance.a12aa0e19050a81907b4.png",
+    "static/media/experimental.png": "/Portfolio/static/media/experimental.7eb105785323b9eb254a.png",
     "index.html": "/Portfolio/index.html",
-    "main.e3ae7d57.css.map": "/Portfolio/static/css/main.e3ae7d57.css.map",
-    "main.60408398.js.map": "/Portfolio/static/js/main.60408398.js.map",
+    "main.d14c585c.css.map": "/Portfolio/static/css/main.d14c585c.css.map",
+    "main.3d51573f.js.map": "/Portfolio/static/js/main.3d51573f.js.map",
     "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3ae7d57.css",
-    "static/js/main.60408398.js"
+    "static/css/main.d14c585c.css",
+    "static/js/main.3d51573f.js"
   ]
 }
