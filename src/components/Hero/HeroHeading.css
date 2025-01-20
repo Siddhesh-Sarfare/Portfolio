@@ -1,0 +1,94 @@
+.heroName {
+  letter-spacing: -0.4rem;
+  font-size: 6vw;
+  bottom: auto;
+  background: transparent;
+}
+.grid-div-1 {
+  font-size: 50px;
+}
+@media screen and (max-width: 2425px) {
+  .heroName {
+    font-size: 7vw;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .heroName {
+    margin-top: 9rem;
+    font-size: xx-large;
+    letter-spacing: 0;
+  }
+
+  .herobg {
+    max-height: 11rem;
+  }
+
+  .heropic {
+    max-height: 14rem;
+  }
+}
+
+.herocolor {
+  z-index: 3;
+}
+
+.heropic {
+  bottom: 2rem;
+  filter: brightness(88%);
+  mix-blend-mode: lighten;
+  opacity: 1;
+  /* max-height: 30rem; */
+}
+
+.herobg {
+  border-radius: 30px 30px 0 0;
+  mix-blend-mode: lighten;
+  opacity: 0.2;
+}
+
+.master-container {
+  max-width: 94rem;
+}
+
+.grid-div-1 {
+  letter-spacing: -0.1rem;
+  font-size: x-large;
+}
+
+.likes-of,
+.latest-grid {
+  grid-column-gap: 3rem;
+  grid-row-gap: 3rem;
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-columns: 1fr;
+}
+
+.altra,
+.bpifrance,
+.business,
+.connect {
+  background: border-box;
+}
+
+.latest-work {
+  text-shadow: 0 9px 20px #ffffff1f;
+}
+
+.latest-grid {
+  grid-column-gap: 4rem;
+  grid-row-gap: 4rem;
+}
+
+.latest-case-component {
+  z-index: 5;
+  grid-column-gap: 7rem;
+  grid-row-gap: 7rem;
+}
+
+/* .get-in-touch {
+  transform-style: preserve-3d;
+  transform: translate3d(0px, 0px, 0px) scale3d(1.007, 1.007, 1.007);
+  transition: transform 300ms, filter 300ms ease-in-out;
+} */

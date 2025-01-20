@@ -1,0 +1,12 @@
+.latest_case-wrapper:hover {
+  transform-style: preserve-3d;
+  transform: translate3d(0px, 0px, 0px) scale3d(1.007, 1.007, 1.007);
+  transition: transform 300ms, filter 300ms ease-in-out;
+}
+
+/* element. style {
+    transform-style: preserve-3d;
+    transform: translate3d(øpx, øpx, øpx) scale3d(1.øØ7, 1.007, 1)
+    rotateX( ødeg) rotateZ(C) ødeg) skew(C) ødeg,
+    O
+    Odeg) ; */

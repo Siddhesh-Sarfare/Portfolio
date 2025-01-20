@@ -1,0 +1,27 @@
+.navlogo_wrapper {
+  background-color: #262626;
+  transform-origin: left;
+  transition: transform 0.3s ease;
+  filter: grayscale();
+}
+.navlogo_wrapper:hover {
+  transform: scale(1.05);
+}
+
+.navbar_logo {
+  width: 2rem;
+  height: 2rem;
+  transition: all .7s;
+}
+.navlogo_wrapper:hover {
+  filter: none;
+}
+
+.menu_text-link {
+  text-align: center;
+  word-break: keep-all;
+  /* width: 4.7rem;
+  height: 1.3rem;
+  margin-top: -0.4rem; */
+  overflow: hidden;
+}
