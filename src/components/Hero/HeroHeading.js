@@ -28,7 +28,7 @@ const hero_heading = () => {
                     text="still in development..."
                     effect="fadeOut"
                     effectDirection="left"
-                    speed={15}
+                    speed={10}
                   />
                 </div>
                 <img
@@ -52,7 +52,7 @@ const hero_heading = () => {
                 <div className="grid justify-between text-xl text-white align-middle grid-cols-0 lg:grid-cols-2 role">
                   <div className="self-center">
                     <h2 className="content-center p-1 font-bold tracking-wide text-gray-300">
-                      Frontend Web Developer 123
+                      Frontend Web Developer
                     </h2>
                   </div>
                   <div className="self-center justify-items-end">
