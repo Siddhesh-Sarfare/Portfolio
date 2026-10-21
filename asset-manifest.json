@@ -1,24 +1,20 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.caa28c0c.css",
-    "main.js": "/Portfolio/static/js/main.04f28f32.js",
+    "main.css": "/Portfolio/static/css/main.42ac4bee.css",
+    "main.js": "/Portfolio/static/js/main.1e81cff5.js",
     "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
-    "static/media/connect.png": "/Portfolio/static/media/connect.ca7590cab3b1dba5b063.png",
-    "static/media/work_2.png": "/Portfolio/static/media/work_2.3fa4a13511850de7c60e.png",
-    "static/media/ProfImgbg.png": "/Portfolio/static/media/ProfImgbg.17f7c0aaef52f519f5ee.png",
-    "static/media/work_1.png": "/Portfolio/static/media/work_1.d64872e1526e9995f1a8.png",
-    "static/media/passportdp-removebg-preview.png": "/Portfolio/static/media/passportdp-removebg-preview.2b82c2ad14f1bc50bee9.png",
-    "static/media/business.png": "/Portfolio/static/media/business.459f9a3e7a27bb516216.png",
     "static/media/hero_background.webp": "/Portfolio/static/media/hero_background.d96bd4bdf6ae52280f65.webp",
-    "static/media/bpifrance.png": "/Portfolio/static/media/bpifrance.a12aa0e19050a81907b4.png",
-    "static/media/experimental.png": "/Portfolio/static/media/experimental.7eb105785323b9eb254a.png",
+    "static/media/project-templetrust.webp": "/Portfolio/static/media/project-templetrust.1dda92b5dce2c487084f.webp",
+    "static/media/profile-cutout.webp": "/Portfolio/static/media/profile-cutout.6f28764f8b0635ed0e52.webp",
+    "static/media/project-cyberprotections.webp": "/Portfolio/static/media/project-cyberprotections.3d8e03775eca5cd39758.webp",
+    "static/media/avatar.webp": "/Portfolio/static/media/avatar.e8c074530c3a7a7d0464.webp",
     "index.html": "/Portfolio/index.html",
-    "main.caa28c0c.css.map": "/Portfolio/static/css/main.caa28c0c.css.map",
-    "main.04f28f32.js.map": "/Portfolio/static/js/main.04f28f32.js.map",
+    "main.42ac4bee.css.map": "/Portfolio/static/css/main.42ac4bee.css.map",
+    "main.1e81cff5.js.map": "/Portfolio/static/js/main.1e81cff5.js.map",
     "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.caa28c0c.css",
-    "static/js/main.04f28f32.js"
+    "static/css/main.42ac4bee.css",
+    "static/js/main.1e81cff5.js"
   ]
 }
