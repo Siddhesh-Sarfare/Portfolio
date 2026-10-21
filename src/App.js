@@ -1,25 +1,11 @@
 import React from "react";
-import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
-import "./App.css";
-import Header from "./components/Header/Header";
-import About from "./pages/About";
-import Contact from "./pages/Contact";
 import Home from "./pages/Home";
-import Portfolio from "./pages/Portfolio";
 
+// The site is a single page with in-page sections (#about, #work, …),
+// so it renders the same content at any URL — including the GitHub Pages
+// sub-path (/Portfolio) — without a router.
 function App() {
-  return (
-    <Router>
-      <Header />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/Portfolio" element={<Home />} />
-        <Route path="/portfolio" element={<Portfolio />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/contact" element={<Contact />} />
-      </Routes>
-    </Router>
-  );
+  return <Home />;
 }
 
 export default App;

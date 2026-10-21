@@ -2,11 +2,13 @@
 
 # dependencies
 /node_modules
+/claude
 /.pnp
 .pnp.js
 
 node_modules/
 build/
+claude/
 .env
 
 # testing
