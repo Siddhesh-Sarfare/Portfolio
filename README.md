@@ -14,7 +14,7 @@ yarn install
 yarn start
 ```
 
-The dev server opens at <http://localhost:3000/Portfolio>.
+The dev server opens at <http://localhost:3000>.
 
 ## Scripts
 
@@ -45,3 +45,9 @@ src/
   index.css              design tokens (colours, light/dark) and base styles
 tailwind.config.js       maps tokens to Tailwind utilities
 ```
+
+## Deploying to Netlify
+
+`netlify.toml` sets the build command (`yarn build`) and publish directory (`build`).
+`"homepage": "."` in `package.json` makes asset paths relative, so the same build works
+at the Netlify root and on GitHub Pages under `/Portfolio/` (`yarn deploy`).
